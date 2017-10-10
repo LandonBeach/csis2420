@@ -3,7 +3,7 @@
 1. List four pre-computer data structures not covered in class. For each of these describe
     -  The problems they help solve
     -  Associated algorithms
-2. Test your environment by writing a static method that takes positive integer n as input and outputs an array of n random integers in the range 0 → 1,000,000. Test this method by calling it on n = 100 and printing the result.
+1. Test your environment by writing a static method that takes positive integer n as input and outputs an array of n random integers in the range 0 → 1,000,000. Test this method by calling it on n = 100 and printing the result.
 
 
 ## Week 2
