@@ -1,0 +1,1 @@
+Java provides it's own hashCode() method for objects. It can be overridden with your own hash function. My theory is that the hashCode() method Java provides is similar to the one that we wrote in class. Both hash functions will return a similar, but different result.
