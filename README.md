@@ -1,4 +1,6 @@
 # Data Structures and Algorithms (CSIS 2420)
+
+
 ## Week 1
 1. List four pre-computer data structures not covered in class. For each of these describe
    - The problems they help solve
@@ -39,6 +41,7 @@
 1.  Reimplement TreeNode and TreeNodeTest to store strings. Use it to store the first 20 words in the “About SUU” web page. Then print the contents of the tree.
 1. Generate 18 random ints in the range 0 to 100. Demonstrate by hand the insertion of these numbers into a hash array of size 31. Use the mod 31 hash. Resolve the collisions by chaining.
 1. Using the hash table code given in class as a starting point, generate 100 random ints in the range 0 to 1 million and insert these into an appropriately sized hash table. Then walk through the table printing all values inserted at each index.
+
 
 ## Week 6
 1. How does Java hash objects? Test your theory.
